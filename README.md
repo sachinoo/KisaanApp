@@ -1,15 +1,8 @@
-# React Native Login Template
-
-This repo is proudly sponsored by:
-
-<a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
-  <img src="https://raw.githubusercontent.com/venits/react-native-market/master/assets/banner.png" width="280"><br />
-  React Native Templates & Starter Kits and Apps for easier start.
-</a>
+#Kisaan Application Using React Native
 
 ## Demo
 
-https://simple-login-template.web.app
+![image](https://user-images.githubusercontent.com/24665608/144923446-0d951881-1729-4da6-a622-7e2ec371ba8f.png)
 
 ## How to use?
 
