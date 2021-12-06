@@ -19,24 +19,10 @@ yarn install
 3. Run project on iOS / Android.
 
 ```js
- npm run ios // npm run android
- // or
- yarn ios // yarn android
+expo start
+>> Select the Local Connection 
+>> Run on Android device/emulator
 ```
+![image](https://user-images.githubusercontent.com/24665608/144923733-a8edcb94-76ae-4545-babd-8ea922d811a4.png)
 
-## Preview
 
-![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
-
-## Support
-
-In case of any questions or problems, please contact me at:
-[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
-
-### Happy Coding 🚀
-
-### [ReactNativeMarket.com](http://reactnativemarket.com/)
