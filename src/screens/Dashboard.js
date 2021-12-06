@@ -11,11 +11,15 @@ export default function Dashboard({ navigation }) {
       <Logo />
       <Header>Let’s start</Header>
       <Paragraph>
-        Your amazing app starts here. Open you favorite code editor and start
-        editing this project.
+        Welcome to Your Profile. Please press the notify button to contact the
+        Distributors.
       </Paragraph>
+      <Button mode="contained" color="#f0d116">
+        CONTACT DISTRIBUTOR
+      </Button>
       <Button
         mode="outlined"
+        color="green"
         onPress={() =>
           navigation.reset({
             index: 0,

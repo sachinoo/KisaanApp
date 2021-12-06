@@ -69,6 +69,7 @@ export default function RegisterScreen({ navigation }) {
       />
       <Button
         mode="contained"
+        color="green"
         onPress={onSignUpPressed}
         style={{ marginTop: 24 }}
       >
@@ -91,6 +92,7 @@ const styles = StyleSheet.create({
   },
   link: {
     fontWeight: 'bold',
-    color: theme.colors.primary,
+    color: 'green',
+    // color: theme.colors.primary,
   },
 })
